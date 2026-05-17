@@ -1,0 +1,12 @@
+game_pk,game_time,venue_id,venue_name,away_team_id,away_team_name,away_team_abbr,away_pitcher_id,away_pitcher_name,away_pitcher_hand,home_team_id,home_team_name,home_team_abbr,home_pitcher_id,home_pitcher_name,home_pitcher_hand
+823383,2026-05-14T16:35:00Z,31,PNC Park,115,Colorado Rockies,COL,801403,Chase Dollander,R,134,Pittsburgh Pirates,PIT,682254,Mason Montgomery,R
+824517,2026-05-14T16:40:00Z,2602,Great American Ball Park,120,Washington Nationals,WSH,656492,Foster Griffin,R,113,Cincinnati Reds,CIN,695505,Chase Burns,R
+823630,2026-05-14T17:10:00Z,3289,Citi Field,116,Detroit Tigers,DET,672456,Keider Montero,R,121,New York Mets,NYM,690997,Nolan McLean,R
+823709,2026-05-14T17:40:00Z,3312,Target Field,146,Miami Marlins,MIA,666129,Braxton Garrett,R,142,Minnesota Twins,MIN,805673,Zebby Matthews,R
+823789,2026-05-14T17:40:00Z,32,American Family Field,135,San Diego Padres,SD,656288,Griffin Canning,R,158,Milwaukee Brewers,MIL,690986,Kyle Harrison,R
+824196,2026-05-14T18:10:00Z,2392,Daikin Park,136,Seattle Mariners,SEA,622491,Luis Castillo,R,117,Houston Astros,HOU,681347,Mike Burrows,R
+825008,2026-05-14T19:05:00Z,2529,Sutter Health Park,138,St. Louis Cardinals,STL,700241,Michael McGreevy,R,133,Athletics,ATH,682052,Jacob Lopez,R
+824762,2026-05-14T22:45:00Z,3,Fenway Park,143,Philadelphia Phillies,PHI,666200,Jesús Luzardo,R,111,Boston Red Sox,BOS,624133,Ranger Suarez,R
+824926,2026-05-14T23:15:00Z,4705,Truist Park,112,Chicago Cubs,CHC,676962,Ben Brown,R,144,Atlanta Braves,ATL,519242,Chris Sale,R
+824602,2026-05-14T23:40:00Z,4,Rate Field,118,Kansas City Royals,KC,663460,Kris Bubic,R,145,Chicago White Sox,CWS,641743,Anthony Kay,R
+823950,2026-05-15T02:10:00Z,22,UNIQLO Field at Dodger Stadium,137,San Francisco Giants,SF,694738,Landen Roupp,R,119,Los Angeles Dodgers,LAD,686218,Emmet Sheehan,R

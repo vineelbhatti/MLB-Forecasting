@@ -1,0 +1,113 @@
+game_id,commence_time,home_team,away_team,bookmaker,market,outcome_name,outcome_price,outcome_point
+a051c6df269a83813b248ea222859c65,2026-05-15T22:41:00Z,Pittsburgh Pirates,Philadelphia Phillies,fanduel,spreads,Philadelphia Phillies,-225,1.5
+a051c6df269a83813b248ea222859c65,2026-05-15T22:41:00Z,Pittsburgh Pirates,Philadelphia Phillies,fanduel,spreads,Pittsburgh Pirates,164,-1.5
+a051c6df269a83813b248ea222859c65,2026-05-15T22:41:00Z,Pittsburgh Pirates,Philadelphia Phillies,fanduel,totals,Over,108,7.5
+a051c6df269a83813b248ea222859c65,2026-05-15T22:41:00Z,Pittsburgh Pirates,Philadelphia Phillies,fanduel,totals,Under,-144,7.5
+44a4350d4a8392d58e49e092bee941e9,2026-05-15T22:46:00Z,Washington Nationals,Baltimore Orioles,fanduel,spreads,Baltimore Orioles,122,-1.5
+44a4350d4a8392d58e49e092bee941e9,2026-05-15T22:46:00Z,Washington Nationals,Baltimore Orioles,fanduel,spreads,Washington Nationals,-162,1.5
+44a4350d4a8392d58e49e092bee941e9,2026-05-15T22:46:00Z,Washington Nationals,Baltimore Orioles,fanduel,totals,Over,-112,8.5
+44a4350d4a8392d58e49e092bee941e9,2026-05-15T22:46:00Z,Washington Nationals,Baltimore Orioles,fanduel,totals,Under,-118,8.5
+19b80d07edae4ffcb25b42667963c877,2026-05-15T22:46:00Z,Detroit Tigers,Toronto Blue Jays,fanduel,spreads,Detroit Tigers,162,-1.5
+19b80d07edae4ffcb25b42667963c877,2026-05-15T22:46:00Z,Detroit Tigers,Toronto Blue Jays,fanduel,spreads,Toronto Blue Jays,-220,1.5
+19b80d07edae4ffcb25b42667963c877,2026-05-15T22:46:00Z,Detroit Tigers,Toronto Blue Jays,fanduel,totals,Over,-104,7.5
+19b80d07edae4ffcb25b42667963c877,2026-05-15T22:46:00Z,Detroit Tigers,Toronto Blue Jays,fanduel,totals,Under,-128,7.5
+d5256fecb9779436e7900fb3f1b19363,2026-05-15T23:11:00Z,Cleveland Guardians,Cincinnati Reds,fanduel,spreads,Cincinnati Reds,-200,1.5
+d5256fecb9779436e7900fb3f1b19363,2026-05-15T23:11:00Z,Cleveland Guardians,Cincinnati Reds,fanduel,spreads,Cleveland Guardians,164,-1.5
+d5256fecb9779436e7900fb3f1b19363,2026-05-15T23:11:00Z,Cleveland Guardians,Cincinnati Reds,fanduel,totals,Over,-104,8.0
+d5256fecb9779436e7900fb3f1b19363,2026-05-15T23:11:00Z,Cleveland Guardians,Cincinnati Reds,fanduel,totals,Under,-118,8.0
+2aee6b065d2ab7dd34a7bf34c50ecf64,2026-05-15T23:11:00Z,Tampa Bay Rays,Miami Marlins,fanduel,spreads,Miami Marlins,-210,1.5
+2aee6b065d2ab7dd34a7bf34c50ecf64,2026-05-15T23:11:00Z,Tampa Bay Rays,Miami Marlins,fanduel,spreads,Tampa Bay Rays,172,-1.5
+2aee6b065d2ab7dd34a7bf34c50ecf64,2026-05-15T23:11:00Z,Tampa Bay Rays,Miami Marlins,fanduel,totals,Over,-122,7.5
+2aee6b065d2ab7dd34a7bf34c50ecf64,2026-05-15T23:11:00Z,Tampa Bay Rays,Miami Marlins,fanduel,totals,Under,100,7.5
+29396edfdade5878dbc35fa23dfd31bd,2026-05-15T23:11:00Z,Minnesota Twins,Milwaukee Brewers,fanduel,spreads,Milwaukee Brewers,146,-1.5
+29396edfdade5878dbc35fa23dfd31bd,2026-05-15T23:11:00Z,Minnesota Twins,Milwaukee Brewers,fanduel,spreads,Minnesota Twins,-176,1.5
+29396edfdade5878dbc35fa23dfd31bd,2026-05-15T23:11:00Z,Minnesota Twins,Milwaukee Brewers,fanduel,totals,Over,-120,8.5
+29396edfdade5878dbc35fa23dfd31bd,2026-05-15T23:11:00Z,Minnesota Twins,Milwaukee Brewers,fanduel,totals,Under,-102,8.5
+0a103297db91d5bd1abf13d04b710c2a,2026-05-15T23:16:00Z,Atlanta Braves,Boston Red Sox,fanduel,spreads,Atlanta Braves,138,-1.5
+0a103297db91d5bd1abf13d04b710c2a,2026-05-15T23:16:00Z,Atlanta Braves,Boston Red Sox,fanduel,spreads,Boston Red Sox,-166,1.5
+0a103297db91d5bd1abf13d04b710c2a,2026-05-15T23:16:00Z,Atlanta Braves,Boston Red Sox,fanduel,totals,Over,-115,7.5
+0a103297db91d5bd1abf13d04b710c2a,2026-05-15T23:16:00Z,Atlanta Braves,Boston Red Sox,fanduel,totals,Under,-105,7.5
+afc970260745e8fb77f25865b9aa1d1e,2026-05-15T23:16:00Z,New York Mets,New York Yankees,fanduel,spreads,New York Mets,-146,1.5
+afc970260745e8fb77f25865b9aa1d1e,2026-05-15T23:16:00Z,New York Mets,New York Yankees,fanduel,spreads,New York Yankees,122,-1.5
+afc970260745e8fb77f25865b9aa1d1e,2026-05-15T23:16:00Z,New York Mets,New York Yankees,fanduel,totals,Over,-105,7.0
+afc970260745e8fb77f25865b9aa1d1e,2026-05-15T23:16:00Z,New York Mets,New York Yankees,fanduel,totals,Under,-115,7.0
+36e963840422a477a4a60c1d4b1b2879,2026-05-15T23:41:00Z,Chicago White Sox,Chicago Cubs,fanduel,spreads,Chicago Cubs,126,-1.5
+36e963840422a477a4a60c1d4b1b2879,2026-05-15T23:41:00Z,Chicago White Sox,Chicago Cubs,fanduel,spreads,Chicago White Sox,-152,1.5
+36e963840422a477a4a60c1d4b1b2879,2026-05-15T23:41:00Z,Chicago White Sox,Chicago Cubs,fanduel,totals,Over,-104,8.5
+36e963840422a477a4a60c1d4b1b2879,2026-05-15T23:41:00Z,Chicago White Sox,Chicago Cubs,fanduel,totals,Under,-118,8.5
+4323e1f1f88640843f73a6482a7730d5,2026-05-16T00:11:00Z,Houston Astros,Texas Rangers,fanduel,spreads,Houston Astros,-176,1.5
+4323e1f1f88640843f73a6482a7730d5,2026-05-16T00:11:00Z,Houston Astros,Texas Rangers,fanduel,spreads,Texas Rangers,146,-1.5
+4323e1f1f88640843f73a6482a7730d5,2026-05-16T00:11:00Z,Houston Astros,Texas Rangers,fanduel,totals,Over,-112,8.5
+4323e1f1f88640843f73a6482a7730d5,2026-05-16T00:11:00Z,Houston Astros,Texas Rangers,fanduel,totals,Under,-108,8.5
+857412c718e5a9787f2d262c8ad16cd5,2026-05-16T00:16:00Z,St. Louis Cardinals,Kansas City Royals,fanduel,spreads,Kansas City Royals,155,-1.5
+857412c718e5a9787f2d262c8ad16cd5,2026-05-16T00:16:00Z,St. Louis Cardinals,Kansas City Royals,fanduel,spreads,St. Louis Cardinals,-188,1.5
+857412c718e5a9787f2d262c8ad16cd5,2026-05-16T00:16:00Z,St. Louis Cardinals,Kansas City Royals,fanduel,totals,Over,-112,8.5
+857412c718e5a9787f2d262c8ad16cd5,2026-05-16T00:16:00Z,St. Louis Cardinals,Kansas City Royals,fanduel,totals,Under,-108,8.5
+204926b2f2e00788f62385d3af31d828,2026-05-16T00:41:00Z,Colorado Rockies,Arizona Diamondbacks,fanduel,spreads,Arizona Diamondbacks,126,-1.5
+204926b2f2e00788f62385d3af31d828,2026-05-16T00:41:00Z,Colorado Rockies,Arizona Diamondbacks,fanduel,spreads,Colorado Rockies,-152,1.5
+204926b2f2e00788f62385d3af31d828,2026-05-16T00:41:00Z,Colorado Rockies,Arizona Diamondbacks,fanduel,totals,Over,-115,11.5
+204926b2f2e00788f62385d3af31d828,2026-05-16T00:41:00Z,Colorado Rockies,Arizona Diamondbacks,fanduel,totals,Under,-105,11.5
+8a72d8b519cc92911419682fb63aaf67,2026-05-16T01:39:00Z,Los Angeles Angels,Los Angeles Dodgers,fanduel,spreads,Los Angeles Angels,-104,1.5
+8a72d8b519cc92911419682fb63aaf67,2026-05-16T01:39:00Z,Los Angeles Angels,Los Angeles Dodgers,fanduel,spreads,Los Angeles Dodgers,-115,-1.5
+8a72d8b519cc92911419682fb63aaf67,2026-05-16T01:39:00Z,Los Angeles Angels,Los Angeles Dodgers,fanduel,totals,Over,100,9.5
+8a72d8b519cc92911419682fb63aaf67,2026-05-16T01:39:00Z,Los Angeles Angels,Los Angeles Dodgers,fanduel,totals,Under,-122,9.5
+2f427e779ce4322fa3631629afb6f614,2026-05-16T01:41:00Z,Athletics,San Francisco Giants,fanduel,spreads,Athletics,142,-1.5
+2f427e779ce4322fa3631629afb6f614,2026-05-16T01:41:00Z,Athletics,San Francisco Giants,fanduel,spreads,San Francisco Giants,-172,1.5
+2f427e779ce4322fa3631629afb6f614,2026-05-16T01:41:00Z,Athletics,San Francisco Giants,fanduel,totals,Over,-122,9.5
+2f427e779ce4322fa3631629afb6f614,2026-05-16T01:41:00Z,Athletics,San Francisco Giants,fanduel,totals,Under,100,9.5
+919b933a4af691070848a940a7d07a84,2026-05-16T01:41:00Z,Seattle Mariners,San Diego Padres,fanduel,spreads,San Diego Padres,-192,1.5
+919b933a4af691070848a940a7d07a84,2026-05-16T01:41:00Z,Seattle Mariners,San Diego Padres,fanduel,spreads,Seattle Mariners,158,-1.5
+919b933a4af691070848a940a7d07a84,2026-05-16T01:41:00Z,Seattle Mariners,San Diego Padres,fanduel,totals,Over,102,7.5
+919b933a4af691070848a940a7d07a84,2026-05-16T01:41:00Z,Seattle Mariners,San Diego Padres,fanduel,totals,Under,-124,7.5
+f1f5588e7499f45638568bb30db784a3,2026-05-16T18:16:00Z,St. Louis Cardinals,Kansas City Royals,fanduel,spreads,Kansas City Royals,155,-1.5
+f1f5588e7499f45638568bb30db784a3,2026-05-16T18:16:00Z,St. Louis Cardinals,Kansas City Royals,fanduel,spreads,St. Louis Cardinals,-188,1.5
+f1f5588e7499f45638568bb30db784a3,2026-05-16T18:16:00Z,St. Louis Cardinals,Kansas City Royals,fanduel,totals,Over,-105,9.0
+f1f5588e7499f45638568bb30db784a3,2026-05-16T18:16:00Z,St. Louis Cardinals,Kansas City Royals,fanduel,totals,Under,-115,9.0
+e794b5b54765be45db1d4e7681c62e39,2026-05-16T19:11:00Z,Colorado Rockies,Arizona Diamondbacks,fanduel,spreads,Arizona Diamondbacks,104,-1.5
+e794b5b54765be45db1d4e7681c62e39,2026-05-16T19:11:00Z,Colorado Rockies,Arizona Diamondbacks,fanduel,spreads,Colorado Rockies,-125,1.5
+e794b5b54765be45db1d4e7681c62e39,2026-05-16T19:11:00Z,Colorado Rockies,Arizona Diamondbacks,fanduel,totals,Over,-115,11.0
+e794b5b54765be45db1d4e7681c62e39,2026-05-16T19:11:00Z,Colorado Rockies,Arizona Diamondbacks,fanduel,totals,Under,-105,11.0
+cc7b9980605dd66040b354031b4491c8,2026-05-16T20:06:00Z,Washington Nationals,Baltimore Orioles,fanduel,spreads,Baltimore Orioles,136,-1.5
+cc7b9980605dd66040b354031b4491c8,2026-05-16T20:06:00Z,Washington Nationals,Baltimore Orioles,fanduel,spreads,Washington Nationals,-164,1.5
+cc7b9980605dd66040b354031b4491c8,2026-05-16T20:06:00Z,Washington Nationals,Baltimore Orioles,fanduel,totals,Over,-105,9.5
+cc7b9980605dd66040b354031b4491c8,2026-05-16T20:06:00Z,Washington Nationals,Baltimore Orioles,fanduel,totals,Under,-115,9.5
+2638aded4f2e2359a902072c9d2fba22,2026-05-16T20:06:00Z,Pittsburgh Pirates,Philadelphia Phillies,fanduel,spreads,Philadelphia Phillies,-110,-1.5
+2638aded4f2e2359a902072c9d2fba22,2026-05-16T20:06:00Z,Pittsburgh Pirates,Philadelphia Phillies,fanduel,spreads,Pittsburgh Pirates,-110,1.5
+2638aded4f2e2359a902072c9d2fba22,2026-05-16T20:06:00Z,Pittsburgh Pirates,Philadelphia Phillies,fanduel,totals,Over,-105,8.0
+2638aded4f2e2359a902072c9d2fba22,2026-05-16T20:06:00Z,Pittsburgh Pirates,Philadelphia Phillies,fanduel,totals,Under,-115,8.0
+c0881b4a195ada00f7db5d84c6cef8b7,2026-05-16T20:11:00Z,Tampa Bay Rays,Miami Marlins,fanduel,spreads,Miami Marlins,-205,1.5
+c0881b4a195ada00f7db5d84c6cef8b7,2026-05-16T20:11:00Z,Tampa Bay Rays,Miami Marlins,fanduel,spreads,Tampa Bay Rays,168,-1.5
+c0881b4a195ada00f7db5d84c6cef8b7,2026-05-16T20:11:00Z,Tampa Bay Rays,Miami Marlins,fanduel,totals,Over,100,8.0
+c0881b4a195ada00f7db5d84c6cef8b7,2026-05-16T20:11:00Z,Tampa Bay Rays,Miami Marlins,fanduel,totals,Under,-122,8.0
+8cb0cf3de3f70a1993a155d8d3cfef98,2026-05-16T22:11:00Z,Cleveland Guardians,Cincinnati Reds,fanduel,spreads,Cincinnati Reds,-154,1.5
+8cb0cf3de3f70a1993a155d8d3cfef98,2026-05-16T22:11:00Z,Cleveland Guardians,Cincinnati Reds,fanduel,spreads,Cleveland Guardians,128,-1.5
+8cb0cf3de3f70a1993a155d8d3cfef98,2026-05-16T22:11:00Z,Cleveland Guardians,Cincinnati Reds,fanduel,totals,Over,-105,8.5
+8cb0cf3de3f70a1993a155d8d3cfef98,2026-05-16T22:11:00Z,Cleveland Guardians,Cincinnati Reds,fanduel,totals,Under,-115,8.5
+4b228f8e92985dcf7be730bd8e8c2c5d,2026-05-16T23:11:00Z,Chicago White Sox,Chicago Cubs,fanduel,spreads,Chicago Cubs,146,-1.5
+4b228f8e92985dcf7be730bd8e8c2c5d,2026-05-16T23:11:00Z,Chicago White Sox,Chicago Cubs,fanduel,spreads,Chicago White Sox,-178,1.5
+4b228f8e92985dcf7be730bd8e8c2c5d,2026-05-16T23:11:00Z,Chicago White Sox,Chicago Cubs,fanduel,totals,Over,-115,8.5
+4b228f8e92985dcf7be730bd8e8c2c5d,2026-05-16T23:11:00Z,Chicago White Sox,Chicago Cubs,fanduel,totals,Under,-105,8.5
+58b1dff480365011b5d7ad2e1c40baae,2026-05-16T23:11:00Z,Houston Astros,Texas Rangers,fanduel,spreads,Houston Astros,-134,1.5
+58b1dff480365011b5d7ad2e1c40baae,2026-05-16T23:11:00Z,Houston Astros,Texas Rangers,fanduel,spreads,Texas Rangers,112,-1.5
+58b1dff480365011b5d7ad2e1c40baae,2026-05-16T23:11:00Z,Houston Astros,Texas Rangers,fanduel,totals,Over,-105,8.0
+58b1dff480365011b5d7ad2e1c40baae,2026-05-16T23:11:00Z,Houston Astros,Texas Rangers,fanduel,totals,Under,-115,8.0
+a5e515bbcd25515bb500f052064aa31d,2026-05-16T23:11:00Z,Minnesota Twins,Milwaukee Brewers,fanduel,spreads,Milwaukee Brewers,140,-1.5
+a5e515bbcd25515bb500f052064aa31d,2026-05-16T23:11:00Z,Minnesota Twins,Milwaukee Brewers,fanduel,spreads,Minnesota Twins,-170,1.5
+a5e515bbcd25515bb500f052064aa31d,2026-05-16T23:11:00Z,Minnesota Twins,Milwaukee Brewers,fanduel,totals,Over,-110,8.5
+a5e515bbcd25515bb500f052064aa31d,2026-05-16T23:11:00Z,Minnesota Twins,Milwaukee Brewers,fanduel,totals,Under,-110,8.5
+ca5e359ff82548cecbaa7a8695e9fbf0,2026-05-16T23:16:00Z,Atlanta Braves,Boston Red Sox,fanduel,spreads,Atlanta Braves,162,-1.5
+ca5e359ff82548cecbaa7a8695e9fbf0,2026-05-16T23:16:00Z,Atlanta Braves,Boston Red Sox,fanduel,spreads,Boston Red Sox,-196,1.5
+ca5e359ff82548cecbaa7a8695e9fbf0,2026-05-16T23:16:00Z,Atlanta Braves,Boston Red Sox,fanduel,totals,Over,-104,8.0
+ca5e359ff82548cecbaa7a8695e9fbf0,2026-05-16T23:16:00Z,Atlanta Braves,Boston Red Sox,fanduel,totals,Under,-118,8.0
+c53d7080fd560dbde65770d1a7facbfd,2026-05-16T23:16:00Z,New York Mets,New York Yankees,fanduel,spreads,New York Mets,-156,1.5
+c53d7080fd560dbde65770d1a7facbfd,2026-05-16T23:16:00Z,New York Mets,New York Yankees,fanduel,spreads,New York Yankees,130,-1.5
+c53d7080fd560dbde65770d1a7facbfd,2026-05-16T23:16:00Z,New York Mets,New York Yankees,fanduel,totals,Over,-105,8.5
+c53d7080fd560dbde65770d1a7facbfd,2026-05-16T23:16:00Z,New York Mets,New York Yankees,fanduel,totals,Under,-115,8.5
+a6224f9c00c2799d9f58de009bf48393,2026-05-17T01:39:00Z,Los Angeles Angels,Los Angeles Dodgers,fanduel,spreads,Los Angeles Angels,-154,1.5
+a6224f9c00c2799d9f58de009bf48393,2026-05-17T01:39:00Z,Los Angeles Angels,Los Angeles Dodgers,fanduel,spreads,Los Angeles Dodgers,128,-1.5
+a6224f9c00c2799d9f58de009bf48393,2026-05-17T01:39:00Z,Los Angeles Angels,Los Angeles Dodgers,fanduel,totals,Over,-120,8.5
+a6224f9c00c2799d9f58de009bf48393,2026-05-17T01:39:00Z,Los Angeles Angels,Los Angeles Dodgers,fanduel,totals,Under,-102,8.5
+8c4164a5b90b37ee80487fbe77607394,2026-05-17T01:41:00Z,Athletics,San Francisco Giants,fanduel,spreads,Athletics,150,-1.5
+8c4164a5b90b37ee80487fbe77607394,2026-05-17T01:41:00Z,Athletics,San Francisco Giants,fanduel,spreads,San Francisco Giants,-182,1.5
+8c4164a5b90b37ee80487fbe77607394,2026-05-17T01:41:00Z,Athletics,San Francisco Giants,fanduel,totals,Over,-110,10.0
+8c4164a5b90b37ee80487fbe77607394,2026-05-17T01:41:00Z,Athletics,San Francisco Giants,fanduel,totals,Under,-110,10.0

@@ -1,0 +1,16 @@
+game_pk,game_time,venue_id,venue_name,away_team_id,away_team_name,away_team_abbr,away_pitcher_id,away_pitcher_name,away_pitcher_hand,home_team_id,home_team_name,home_team_abbr,home_pitcher_id,home_pitcher_name,home_pitcher_hand
+824442,2026-05-12T22:10:00Z,5,Progressive Field,108,Los Angeles Angels,LAA,700712,Walbert Ureña,R,114,Cleveland Guardians,CLE,677944,Slade Cecconi,R
+824843,2026-05-12T22:35:00Z,2,Oriole Park at Camden Yards,147,New York Yankees,NYY,701542,Will Warren,R,110,Baltimore Orioles,BAL,669432,Trevor Rogers,R
+824521,2026-05-12T22:40:00Z,2602,Great American Ball Park,120,Washington Nationals,WSH,571945,Miles Mikolas,R,113,Cincinnati Reds,CIN,663903,Brady Singer,R
+823385,2026-05-12T22:40:00Z,31,PNC Park,115,Colorado Rockies,COL,547179,Michael Lorenzen,R,134,Pittsburgh Pirates,PIT,694973,Paul Skenes,R
+824764,2026-05-12T22:45:00Z,3,Fenway Park,143,Philadelphia Phillies,PHI,554430,Zack Wheeler,R,111,Boston Red Sox,BOS,663558,Jovani Morán,R
+822817,2026-05-12T23:07:00Z,14,Rogers Centre,139,Tampa Bay Rays,TB,663556,Shane McClanahan,R,141,Toronto Blue Jays,TOR,571578,Patrick Corbin,R
+823632,2026-05-12T23:10:00Z,3289,Citi Field,116,Detroit Tigers,DET,656427,Jack Flaherty,R,121,New York Mets,NYM,642547,Freddy Peralta,R
+824927,2026-05-12T23:15:00Z,4705,Truist Park,112,Chicago Cubs,CHC,607067,Colin Rea,R,144,Atlanta Braves,ATL,656550,Grant Holmes,R
+824604,2026-05-12T23:40:00Z,4,Rate Field,118,Kansas City Royals,KC,663568,Stephen Kolek,R,145,Chicago White Sox,CWS,607200,Erick Fedde,R
+823712,2026-05-12T23:40:00Z,3312,Target Field,146,Miami Marlins,MIA,691587,Eury Pérez,R,142,Minnesota Twins,MIN,641927,Bailey Ober,R
+823790,2026-05-12T23:40:00Z,32,American Family Field,135,San Diego Padres,SD,699134,Bradgley Rodriguez,R,158,Milwaukee Brewers,MIL,687075,Brandon Sproat,R
+822903,2026-05-13T00:05:00Z,5325,Globe Life Field,109,Arizona Diamondbacks,AZ,668678,Zac Gallen,R,140,Texas Rangers,TEX,669022,MacKenzie Gore,R
+824197,2026-05-13T00:10:00Z,2392,Daikin Park,136,Seattle Mariners,SEA,693433,Bryan Woo,R,117,Houston Astros,HOU,837227,Tatsuya Imai,R
+825011,2026-05-13T01:40:00Z,2529,Sutter Health Park,138,St. Louis Cardinals,STL,669467,Andre Pallante,R,133,Athletics,ATH,605488,Jeffrey Springs,R
+823951,2026-05-13T02:10:00Z,22,UNIQLO Field at Dodger Stadium,137,San Francisco Giants,SF,605288,Adrian Houser,R,119,Los Angeles Dodgers,LAD,808967,Yoshinobu Yamamoto,R

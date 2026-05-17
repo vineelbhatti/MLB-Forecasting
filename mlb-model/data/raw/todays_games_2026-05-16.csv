@@ -1,0 +1,16 @@
+game_pk,game_time,venue_id,venue_name,away_team_id,away_team_name,away_team_abbr,away_pitcher_id,away_pitcher_name,away_pitcher_hand,home_team_id,home_team_name,home_team_abbr,home_pitcher_id,home_pitcher_name,home_pitcher_hand
+824278,2026-05-16T17:10:00Z,2394,Comerica Park,141,Toronto Blue Jays,TOR,689254,Mason Fluharty,R,116,Detroit Tigers,DET,663554,Casey Mize,R
+823060,2026-05-16T18:15:00Z,2889,Busch Stadium,118,Kansas City Royals,KC,702070,Noah Cameron,R,138,St. Louis Cardinals,STL,681517,Kyle Leahy,R
+824359,2026-05-16T19:10:00Z,19,Coors Field,109,Arizona Diamondbacks,AZ,593958,Eduardo Rodriguez,R,115,Colorado Rockies,COL,608372,Tomoyuki Sugano,R
+822737,2026-05-16T20:05:00Z,3309,Nationals Park,110,Baltimore Orioles,BAL,605135,Chris Bassitt,R,120,Washington Nationals,WSH,676917,Cade Cavalli,R
+823382,2026-05-16T20:05:00Z,31,PNC Park,143,Philadelphia Phillies,PHI,650911,Cristopher Sánchez,R,134,Pittsburgh Pirates,PIT,696149,Bubba Chandler,R
+822981,2026-05-16T20:10:00Z,12,Tropicana Field,146,Miami Marlins,MIA,645261,Sandy Alcantara,R,139,Tampa Bay Rays,TB,607259,Nick Martinez,R
+824435,2026-05-16T22:10:00Z,5,Progressive Field,113,Cincinnati Reds,CIN,663978,Chris Paddack,R,114,Cleveland Guardians,CLE,676282,Joey Cantillo,R
+824193,2026-05-16T23:10:00Z,2392,Daikin Park,140,Texas Rangers,TEX,594798,Jacob deGrom,R,117,Houston Astros,HOU,678906,Kai-Wei Teng,R
+824600,2026-05-16T23:10:00Z,4,Rate Field,112,Chicago Cubs,CHC,592791,Jameson Taillon,R,145,Chicago White Sox,CWS,663436,Davis Martin,R
+823706,2026-05-16T23:10:00Z,3312,Target Field,158,Milwaukee Brewers,MIL,701656,Logan Henderson,R,142,Minnesota Twins,MIN,687570,Connor Prielipp,R
+823139,2026-05-16T23:15:00Z,680,T-Mobile Park,135,San Diego Padres,SD,621111,Walker Buehler,R,136,Seattle Mariners,SEA,669302,Logan Gilbert,R
+824924,2026-05-16T23:15:00Z,4705,Truist Park,111,Boston Red Sox,BOS,801139,Payton Tolle,R,144,Atlanta Braves,ATL,693821,Bryce Elder,R
+823627,2026-05-16T23:15:00Z,3289,Citi Field,147,New York Yankees,NYY,607074,Carlos Rodón,R,121,New York Mets,NYM,623211,Huascar Brazobán,R
+824038,2026-05-17T01:38:00Z,1,Angel Stadium,119,Los Angeles Dodgers,LAD,680736,Justin Wrobleski,R,108,Los Angeles Angels,LAA,667755,José Soriano,R
+825007,2026-05-17T01:40:00Z,2529,Sutter Health Park,137,San Francisco Giants,SF,686790,Trevor McDonald,R,133,Athletics,ATH,622663,Luis Severino,R
